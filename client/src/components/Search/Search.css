@@ -1,0 +1,18 @@
+.searchUser-bar {
+	height: 50px;    
+  display: flex;  
+	align-items: center;
+	justify-content: center;
+}
+
+.searchUserIcon {
+  margin-right: -25px;
+  position: relative;
+}
+.searchUser-bar input {
+  padding-left: 30px;
+}
+.searchUsersResult {
+	min-height: 100px;
+	overflow-y: auto;
+}

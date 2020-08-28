@@ -1,0 +1,7 @@
+.gradient {  
+  background: linear-gradient(to bottom left, #3333ff 0%, #ff33cc 90%)
+}
+img {
+  max-width:100%;
+  height:auto;
+}

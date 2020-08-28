@@ -1,0 +1,15 @@
+.loginButton {
+  background-image: linear-gradient(to right, #da2b8e, #3e5abb, #da2b8e);
+  background-size: 200%;
+  background-repeat: repeat;
+  background-position: 0%;
+  border: 0;
+  width: 100%;
+  padding: 0.5rem;
+}
+
+.loginButton:active {
+  background-image: linear-gradient(to right, #a72a71, #343d60, #a72a71) !important;
+  background-color: transparent !important;
+  border: none;
+}

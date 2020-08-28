@@ -1,0 +1,14 @@
+export const LOGIN_INIT = 'LOGIN_INIT';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAILURE = 'LOGIN_FAILURE';
+export const LOGOUT = 'LOGOUT';
+export const LOGIN_INIT_AUTH = 'LOGIN_INIT_AUTH';
+export const GET_FROM_LOCALSTORAGE = 'GET_FROM_LOCALSTORAGE';
+export const SET_TO_LOCALSTORAGE = 'SET_TO_LOCALSTORAGE';
+export const SEARCH = 'SEARCH';
+export const ERROR = 'ERROR';
+export const SEEN_MESSAGES_ON = 'SEEN_MESSAGES_ON';
+export const SEEN_MESSAGES_OFF = 'SEEN_MESSAGES_OFF';
+export const SEEN_STORIES_ON = 'SEEN_STORIES_ON';
+export const SEEN_STORIES_OFF = 'SEEN_STORIES_OFF';
+
